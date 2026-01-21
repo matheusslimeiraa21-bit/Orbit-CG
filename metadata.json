@@ -1,0 +1,7 @@
+{
+  "name": "ÓrbitaCG | Pratas 625 Luxury",
+  "description": "A high-end luxury silver jewelry boutique featuring a 925 Sterling Silver collection and an integrated Gemini-powered AI jewelry concierge.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
